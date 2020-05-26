@@ -12,5 +12,5 @@ spec:
   values:
     mesh:
       create: true
-      name: "appmesh"
+      name: "eks-eksctl-ibexlabs-test-001"
       discovery: dns
